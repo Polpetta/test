@@ -31,6 +31,6 @@ int main(int argc, char **argv)
   std::cout<<"Another hello"<<std::endl;
   std::cout<<"Another line"<<std::endl;
   
-	return 0;
+  return 0;
 }
 
